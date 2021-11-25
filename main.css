@@ -1,0 +1,11 @@
+mesa {
+    layout da mesa : fixo;
+    colapso da fronteira : colapso;
+    margem :  12 px ;
+}
+  
+td ,  th {
+    borda :  1 px sólido # 333 ;
+    preenchimento :  0,5 rem ;
+    alinhamento de texto : esquerda;
+}
